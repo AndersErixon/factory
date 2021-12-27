@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "name": "Miner"
+    },
+    {
+      "amount": 3
+    },
+    {
+      "recepies": [
+        "Iron ore",
+        "Copper ore"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Smelter"
+    },
+    {
+      "amount": 2
+    },
+    {
+      "recepies": [
+        "Iron bar",
+        "Copper bar"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Assembler"
+    },
+    {
+      "amount": 3
+    },
+    {
+      "recepies": [
+        "Gear",
+        "Electrical component"
+      ]
+    }
+  ]
+]
